@@ -1,0 +1,26 @@
+
+-
+Version 1.0 - "Initial Creation"
+March 2nd, 2023
+-
+
+Features :
++ Added README.md
++ Added LICENSE
++ Added CHANGELOG
++ Added CHECKLIST
++ Added a Templates Folder for organization
++ Added Inject # - Asset Inventory Template
++ Added Inject # - Bare Template (No Content) Template
++ Added Inject # - Incident Response Plan Template
++ Added Inject # - Service Hardening Template
++ Added Inject # - Software Audit Template
+
+Improvements :
+None
+
+Fixed :
+None
+
+Removed :
+None
