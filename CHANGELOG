@@ -10,11 +10,11 @@ Features :
 + Added CHANGELOG
 + Added CHECKLIST
 + Added a Templates Folder for organization
-+ Added Inject # - Asset Inventory Template
-+ Added Inject # - Bare Template (No Content) Template
-+ Added Inject # - Incident Response Plan Template
-+ Added Inject # - Service Hardening Template
-+ Added Inject # - Software Audit Template
++ Added Inject # - Asset Inventory.docx
++ Added Inject # - Bare Template (No Content).docx
++ Added Inject # - Incident Response Plan.docx
++ Added Inject # - Service Hardening.docx
++ Added Inject # - Software Audit.docx
 
 Improvements :
 None
